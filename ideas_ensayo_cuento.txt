@@ -1,0 +1,58 @@
+
+
+---------------HUME--------------
+
+  Hume plantea al hablar respecto de las relaciones causa-efecto, que a pesar de que vemos las causas y efectos entre, por ej., 2 objetos que 
+  chocan entre sí (2 bolas de billar), no somos capaces de ver la "conexión necesaria" entre ellas, aquello que hace posible de que dicha causa
+  ocasione tal efecto y no otro.
+
+ "No vivimos en un mundo donde percibamos la necesidad como una propiedad de las relaciones entre los objetos, donde podamos saber que las cosas 
+  tienen unos poderes (características) que de manera necesaria los llevan a producir determinados efectos. Es solo la experiencia la que nos enseña 
+  cómo se comportan las cosas."   
+
+  Para alguien del siglo XXI, lo más probable es que esta reflexión lo lleve a pensar en la ciencia, en párticular la física, puesto que su fin a lo largo
+  de 3 siglos ha sido develar la esencia del universo escondida tras la multiplicidad de fenómenos observabados por la humanidad. Aquello a lo que 
+  Hume se refiere como una "conexión necesaria" entre las causas y efectos de algún hecho, invisible a los ojos o percepción humana, y que vendría a darnos
+  cuenta del por qué dichos efectos resultan de tales causas, es lo que se ha intentado entretejer, provistos de relaciones observables traducidas en 
+  matemáticas y ciertos principios como la universalidad de aquellas relaciones e independencia del punto de vista del observador, resultando así algo que podamos
+  llamar leyes universales y se acerque en lo posible, de la forma más elegante, a la esencia misma de la naturaleza.
+
+  Pero para Hume, su pasión no se dirigía tanto al universo y la naturaleza, como al entendimiento de nosotros mismos, la especie humana, siendo parte 
+  de los muchos que se enrolaron en la maravillosa y no pocas veces ingrata tarea, de entender un poco más del como entendemos. Hume resume los fenomenos 
+  de la mente, en 2 conceptos, las impresiones y las ideas, siendo las primeras el resultado de nuestra interacción con el mundo y 
+  la percepción de este, las segundas, un copia de las anteriores que carecen de la misma fuerza y vitalidad que poseen las impresiones. Así el recuerdo 
+  de una emoción, como el miedo, el dolor o el amor, difícilmente tendrá la misma intensidad de cuando la experimentamos alguna de ellas.
+  
+  Un hecho facinante es la contrucción de ideas complejas a partir de la articulación de ideas simples, por ej. es posible "imaginar" un lugar en el que nunca
+  hemos estado, pero que si tenemos cierta descripción de este, podemos representarlo mediante ideas simples que nos evoquen las particularidades descritas, en que 
+  aquellas si corresponden a un universo conocido por el que imagina dicho lugar. 
+
+  De este modo Hume busca inducir un principio que para él y muchos será semejante a una ley universal, que paradojicamente carecerá de demostración lógica, 
+  al igual que cuando un abogado intentando demostrar la culpabilidad del acusado, añade una serie de argumentos que sólo hacen referencia a la probabilidad de que el
+  sujeto sea el culpable, pero de ninguna manera lo demuestran. Apesar de esto, Hume abrazará sin pudor alguno un camino sedimentado en esas rocosas islas de blancos
+  acantilados a la que los romanos y griegos llamaron , testigos de tantas pugnas entre celtas y romanos, sajones, normandos, católicos y anglicanos, y que aún así
+  han de converger en esa pequeña senda emprendida por un inspirado John Locke y vigilada por el ojo inmaterial de George Berkeley, una aventura a la que más tarde
+  el mundo entero conocera como empirismo filosófico.  
+
+  Así el principio fundamental de Hume y todo empirista será que no hay nada en el ser humano que no haya surgido desde la experiencia, por tanto no puede haber 
+  idea alguna que se haya creado de forma independiente a la interacción del sujeto y el mundo, en palabras de Hume, toda idea proviene de una impresión surgida 
+  de la experiencia. Luego el filósofo intenta elaborar una entendimiento de los fenómenos en nuestra mente a partir de 3 mecanismos fundamentales, la contigüidad, 
+  la semejanza y por último la causalidad.
+
+  Es a partir de lo último en que volvemos al punto de partida, pues como dijímos en un comienzo un obervador puede percatarse de las causas y los efectos, pero ¿como 
+  llegamos a establecer e identificar cada una?, y el sentido común nos diría que existe condiciones de precedencia temporal de las causas y de contigüidad espacial 
+  de las últimas con los efectos, así es evidente que una bola en movimiento al chocar con otra, cual es la causa y el efecto del resultado. El problema es que no 
+  vemos aquella "conexión necesaria", a lo que Hume siendo fiel a su tratado argumenta que aquella relación entre la causa y el efecto, es una idea inherente a 
+  nosotros como observadores, y esta surge de la impresión que nos queda cuadno en el fenómeno se dan ciertas condiciones especificas de precedencia y contigüidad.
+
+  El hecho de que a pesar de que cuando observamos estas conidciones entre 2 sucesos, entonces la mente tiende a establecer una relación de causalidad y por ende 
+  podemos aseverar comodamente que la causa de la lluvia son las nubes, puesto que observamos que cada vez que llueve antes el cielo parece taparse. Esto parece 
+  bastante lógico y cumple además con las condiciones espaciales y temporales mencionadas, pero la aseveración se precipita al fracaso cuando ampliamos nuestra 
+  observación basada en la experiencia y damos cuenta de que no necesariamente un día nublado implica que llueva. Por tanto cabe pregntarse que otras condiciones, 
+  variables y observaciones hacen falta para llegar a buen puerto y descrubir la verdadera causa de la lluvia.
+
+  De este modo Hume y el empirismo han legado una reinterpretación de la lógica y la razón, que al igual que el fuego de Prometeo no son eternos, pero que si se 
+  cuenta con la agudeza y el temple necesario, podremos apagar y encender antorchas que nos saquen de pantanosas tierras para situarnos cada vez más cerca de la 
+  verdad.  
+  
+  
